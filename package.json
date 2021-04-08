@@ -1,0 +1,15 @@
+{
+  "name": "nfischer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://bitbucket.org/nfische1/help-center-prototype",
+  "author": "nfischer@mediciventures.com",
+  "license": "UNLICENSED",
+  "private": false,
+  "scripts": {
+    "start": "yarn http-server -p 3016"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
