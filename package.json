@@ -7,9 +7,10 @@
   "license": "UNLICENSED",
   "private": false,
   "scripts": {
-    "start": "yarn http-server -p 3016"
+    "start": "yarn http-server -p 3015"
   },
   "dependencies": {
+    "fullpage.js": "^3.1.0",
     "http-server": "^0.12.3"
   }
 }
