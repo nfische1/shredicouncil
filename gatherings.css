@@ -6,15 +6,6 @@ body {
     background-size: 100% 100%;
 }
 
-.center {
-    margin: 0 auto;
-    position: absolute;
-    font-size: 66;
-    top: 34%;
-    left: 10%;
-    transform: translate(34%, 10%);
-    text-align: center;
-}
 
 .box{
     top: 9%;
@@ -24,6 +15,8 @@ body {
     height:500px; 
     background-color: #FDFDFD;
     opacity: 0.5;
+    text-align: center;
+    margin: 0 auto;
 
 }
 

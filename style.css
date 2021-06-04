@@ -7,7 +7,7 @@ body {
 }
 
 .center {
-    margin: 0 auto;
+    margin: 0;
     position: absolute;
     font-size: 66;
     top: 32%;
